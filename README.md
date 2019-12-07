@@ -17,10 +17,10 @@ You can get the tool by running this command
     Usage: toast [title] [message]
 
     title:
-        notification heading appearing in bold
+        toast heading displayed as top line in bold
     
     message:
-        notification message that appears below title
+        toast message shown below heading wrapped in 2 lines
 
     Ex:
         toast "Toaster" "It's time to send a message"

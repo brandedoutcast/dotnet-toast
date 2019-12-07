@@ -12,7 +12,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 
     <PackageId>dotnet-toast</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Description>.NET Core global CLI tool to create toast notifications on Windows 10</Description>
     <Authors>Rohith Reddy</Authors>
     <PackageProjectUrl>https://github.com/rohith/dotnet-toast</PackageProjectUrl>
